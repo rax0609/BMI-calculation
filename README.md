@@ -33,7 +33,7 @@ BMI 計算器是一款使用 C# 和 WPF (Windows Presentation Foundation) 開發
 ## 技術棧
 
 - **語言**：C#
-- **框架**：.NET 6.0 / .NET Core 3.1 / .NET Framework 4.8
+- **框架**：.NET 8.0 / .NET Core 3.1 / .NET Framework 4.8
 - **UI 框架**：WPF (Windows Presentation Foundation)
 - **開發環境**：Visual Studio 2022
 
@@ -41,7 +41,7 @@ BMI 計算器是一款使用 C# 和 WPF (Windows Presentation Foundation) 開發
 
 ### 前置條件
 
-- **.NET 6.0 SDK** 或更新版本
+- **.NET 8.0 SDK** 或更新版本
 - **Visual Studio 2022** 或其他支援 WPF 的開發環境
 
 ### 下載專案
@@ -49,7 +49,7 @@ BMI 計算器是一款使用 C# 和 WPF (Windows Presentation Foundation) 開發
 1. **克隆儲存庫**：
 
    ```bash
-   git clone https://github.com/你的用戶名/BMICalculator.git
+   git clone https://github.com/rax0609/BMICalculator.git
    ```
 
 2. **進入專案目錄**：
