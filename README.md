@@ -26,7 +26,7 @@ BMI 計算器是一款使用 C# 和 WPF (Windows Presentation Foundation) 開發
 
 ## 截圖
 
-![主界面]((https://raw.githubusercontent.com/rax0609/botimg/main/BMI.png)
+![主界面](https://raw.githubusercontent.com/rax0609/botimg/main/BMI.png)
 
 *主界面展示*
 
