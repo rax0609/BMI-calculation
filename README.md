@@ -121,7 +121,7 @@ BMI 計算器是一款使用 **C#** 和 **WPF** (Windows Presentation Foundation
 ## 📫 **聯繫方式**
 
 - **👤 作者**：[rax0609](https://github.com/rax0609)
-- **✉️ 電子郵件**：[support@futuracept.com](support@futuracept.com)
+- **✉️ 電子郵件**：<support@futuracept.com>
 - **🔗 專案網址**：[https://github.com/rax0609/BMICalculator](https://github.com/rax0609/BMICalculator)
 
 ---
